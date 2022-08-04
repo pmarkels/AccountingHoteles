@@ -1,0 +1,86 @@
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\bin\Debug\AccountingHoteles.exe.config
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\bin\Debug\AccountingHoteles.exe
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\bin\Debug\AccountingHoteles.pdb
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\bin\Debug\AccountingHoteles.xml
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\bin\Debug\WebServicesSabre.dll
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\bin\Debug\Utilities.dll
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\bin\Debug\DataAccess.dll
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\bin\Debug\WebServicesSabre.pdb
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\bin\Debug\WebServicesSabre.xml
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Contingencia.resources
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Feriados.resources
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Logs.resources
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Main.resources
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Resources.resources
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.vbproj.GenerateResource.Cache
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.exe
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.xml
+C:\Desarrollos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.pdb
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\bin\Debug\AccountingHoteles.exe.config
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\bin\Debug\AccountingHoteles.exe
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\bin\Debug\AccountingHoteles.pdb
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\bin\Debug\AccountingHoteles.xml
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\bin\Debug\WebServicesSabre.dll
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\bin\Debug\DataAccess.dll
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\bin\Debug\Utilities.dll
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\bin\Debug\WebServicesSabre.pdb
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\bin\Debug\WebServicesSabre.xml
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.vbprojResolveAssemblyReference.cache
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Contingencia.resources
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Feriados.resources
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Logs.resources
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Main.resources
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Resources.resources
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.vbproj.GenerateResource.Cache
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.exe
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.xml
+C:\Users\pmarkels\Documents\Visual Studio 2010\Projects\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.pdb
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\AccountingHoteles.exe.config
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\AccountingHoteles.exe
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\AccountingHoteles.pdb
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\AccountingHoteles.xml
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\WebServicesSabre.dll
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\DataAccess.dll
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\Utilities.dll
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\WebServicesSabre.pdb
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\WebServicesSabre.xml
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\WebServicesSabre.dll.config
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.vbprojAssemblyReference.cache
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Contingencia.resources
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Feriados.resources
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Logs.resources
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Main.resources
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Resources.resources
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.vbproj.GenerateResource.cache
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.vbproj.CoreCompileInputs.cache
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.vbproj.CopyComplete
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.exe
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.xml
+C:\Users\pmarkels\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.pdb
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.vbproj.AssemblyReference.cache
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Contingencia.resources
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Feriados.resources
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Logs.resources
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Main.resources
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.Resources.resources
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.vbproj.GenerateResource.cache
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.vbproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\AccountingHoteles.exe.config
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\AccountingHoteles.exe
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\AccountingHoteles.pdb
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\AccountingHoteles.xml
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\WebServicesSabre.dll
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\DataAccess.dll
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\Utilities.dll
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\WebServicesSabre.pdb
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\WebServicesSabre.xml
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\WebServicesSabre.dll.config
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.vbproj.CopyComplete
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.exe
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.xml
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\obj\Debug\AccountingHoteles.pdb
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\DataAccess.pdb
+C:\Users\pablo\source\repos\WebServicesSabre\AccountingHoteles\bin\Debug\Utilities.pdb

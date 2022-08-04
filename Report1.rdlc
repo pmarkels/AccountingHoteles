@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2005/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSources>
+    <DataSource Name="ItinerarioConnectionString">
+      <rd:DataSourceID>64833fb2-3274-4ae7-a317-10507ac90d7a</rd:DataSourceID>
+      <ConnectionProperties>
+        <DataProvider>OLEDB</DataProvider>
+        <ConnectString>Provider=Microsoft.Jet.OLEDB.4.0;Data Source=|DataDirectory|\Itinerario.mdb;Persist Security Info=True</ConnectString>
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <InteractiveHeight>29.7cm</InteractiveHeight>
+  <ReportParameters>
+    <ReportParameter Name="Nombre">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>Nombre</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Reserva">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>Reserva</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <rd:DrawGrid>true</rd:DrawGrid>
+  <InteractiveWidth>21cm</InteractiveWidth>
+  <rd:GridSpacing>0.25cm</rd:GridSpacing>
+  <rd:SnapToGrid>true</rd:SnapToGrid>
+  <RightMargin>2.5cm</RightMargin>
+  <LeftMargin>2.5cm</LeftMargin>
+  <PageHeader>
+    <PrintOnFirstPage>true</PrintOnFirstPage>
+    <ReportItems>
+      <Image Name="image1">
+        <Sizing>AutoSize</Sizing>
+        <Width>16.69312cm</Width>
+        <MIMEType>image/jpeg</MIMEType>
+        <Source>Embedded</Source>
+        <Style />
+        <ZIndex>5</ZIndex>
+        <Height>2.32804cm</Height>
+        <Value>hoteles</Value>
+      </Image>
+      <Textbox Name="textbox1">
+        <rd:DefaultName>textbox1</rd:DefaultName>
+        <Top>2.75cm</Top>
+        <Width>15cm</Width>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>4</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Height>0.5cm</Height>
+        <Value>Por medio de la presente le informamos el costo del viaje realizado según el detalle adjunto:
+
+</Value>
+      </Textbox>
+      <Textbox Name="textbox3">
+        <rd:DefaultName>textbox3</rd:DefaultName>
+        <Top>3.75cm</Top>
+        <Width>9cm</Width>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>3</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>6.75cm</Left>
+        <Height>0.63492cm</Height>
+        <Value>=Parameters!Nombre.Value</Value>
+      </Textbox>
+      <Textbox Name="textbox2">
+        <rd:DefaultName>textbox2</rd:DefaultName>
+        <Top>3.75cm</Top>
+        <Width>6cm</Width>
+        <Style>
+          <FontWeight>700</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>2</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.25cm</Left>
+        <Height>0.63492cm</Height>
+        <Value>Nombre y Apellido del Pasajero:</Value>
+      </Textbox>
+      <Textbox Name="textbox5">
+        <rd:DefaultName>textbox5</rd:DefaultName>
+        <Top>4.75cm</Top>
+        <Width>9cm</Width>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>1</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>6.75cm</Left>
+        <Height>0.63492cm</Height>
+        <Value>=Parameters!Reserva.Value</Value>
+      </Textbox>
+      <Textbox Name="textbox4">
+        <Top>4.75cm</Top>
+        <Width>6cm</Width>
+        <Style>
+          <FontWeight>700</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <CanGrow>true</CanGrow>
+        <Left>0.25cm</Left>
+        <Height>0.63492cm</Height>
+        <Value>Codigo de la reserva:</Value>
+      </Textbox>
+    </ReportItems>
+    <Height>6cm</Height>
+    <PrintOnLastPage>true</PrintOnLastPage>
+  </PageHeader>
+  <BottomMargin>2.5cm</BottomMargin>
+  <rd:ReportID>22e8f787-f307-4b09-969a-2ec201ee61f0</rd:ReportID>
+  <EmbeddedImages>
+    <EmbeddedImage Name="hoteles">
+      <MIMEType>image/jpeg</MIMEType>
+      <ImageData>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</ImageData>
+    </EmbeddedImage>
+  </EmbeddedImages>
+  <PageWidth>21cm</PageWidth>
+  <DataSets>
+    <DataSet Name="ItinerarioDataSet_Itinerario">
+      <Fields>
+        <Field Name="FechaIni">
+          <DataField>FechaIni</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="FechaFin">
+          <DataField>FechaFin</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="CiudadIni">
+          <DataField>CiudadIni</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="CiudadFin">
+          <DataField>CiudadFin</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="HoraIni">
+          <DataField>HoraIni</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="HoraFin">
+          <DataField>HoraFin</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Cia">
+          <DataField>Cia</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>ItinerarioConnectionString</DataSourceName>
+        <CommandText>SELECT FechaIni, FechaFin, CiudadIni, CiudadFin, HoraIni, HoraFin, Cia FROM Itinerario</CommandText>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+      </Query>
+      <rd:DataSetInfo>
+        <rd:DataSetName>ItinerarioDataSet</rd:DataSetName>
+        <rd:TableName>Itinerario</rd:TableName>
+        <rd:TableAdapterName>ItinerarioTableAdapter</rd:TableAdapterName>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <Width>21.25cm</Width>
+  <Body>
+    <ColumnSpacing>1cm</ColumnSpacing>
+    <ReportItems>
+      <Textbox Name="CiudadFin">
+        <rd:DefaultName>CiudadFin</rd:DefaultName>
+        <Width>2.53968cm</Width>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>6</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>15.75cm</Left>
+        <Height>0.63492cm</Height>
+        <Value>=First(Fields!CiudadFin.Value)</Value>
+      </Textbox>
+      <Textbox Name="HoraFin">
+        <rd:DefaultName>HoraFin</rd:DefaultName>
+        <Width>2cm</Width>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>5</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>13.25cm</Left>
+        <Height>0.63492cm</Height>
+        <Value>=First(Fields!HoraFin.Value)</Value>
+      </Textbox>
+      <Textbox Name="FechaFin">
+        <rd:DefaultName>FechaFin</rd:DefaultName>
+        <Width>2.75cm</Width>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>4</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>10.25cm</Left>
+        <Height>0.63492cm</Height>
+        <Value>=First(Fields!FechaFin.Value)</Value>
+      </Textbox>
+      <Textbox Name="Cia">
+        <rd:DefaultName>Cia</rd:DefaultName>
+        <Width>2.5cm</Width>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>3</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>7.5cm</Left>
+        <Height>0.63492cm</Height>
+        <Value>=First(Fields!Cia.Value)</Value>
+      </Textbox>
+      <Textbox Name="CiudadIni">
+        <rd:DefaultName>CiudadIni</rd:DefaultName>
+        <Width>2.25cm</Width>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>2</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>5.25cm</Left>
+        <Height>0.63492cm</Height>
+        <Value>=First(Fields!CiudadIni.Value)</Value>
+      </Textbox>
+      <Textbox Name="HoraIni">
+        <rd:DefaultName>HoraIni</rd:DefaultName>
+        <Width>2.25cm</Width>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>1</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>3cm</Left>
+        <Height>0.63492cm</Height>
+        <Value>=First(Fields!HoraIni.Value)</Value>
+      </Textbox>
+      <Textbox Name="FechaIni">
+        <rd:DefaultName>FechaIni</rd:DefaultName>
+        <Width>2.75cm</Width>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <CanGrow>true</CanGrow>
+        <Height>0.63492cm</Height>
+        <Value>=Fields!FechaIni.Value</Value>
+      </Textbox>
+    </ReportItems>
+    <Height>2.75cm</Height>
+  </Body>
+  <Language>en-US</Language>
+  <PageFooter>
+    <PrintOnFirstPage>true</PrintOnFirstPage>
+    <Height>0.75cm</Height>
+    <PrintOnLastPage>true</PrintOnLastPage>
+  </PageFooter>
+  <TopMargin>2.5cm</TopMargin>
+  <PageHeight>29.7cm</PageHeight>
+</Report>
